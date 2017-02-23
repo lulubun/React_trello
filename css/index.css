@@ -1,0 +1,19 @@
+.cards {
+    text-align: center;
+    border: 1px solid black;
+    padding: 10px;
+    margin: 10px;
+    display: inline-block;
+}
+
+.board {
+	border: 3px solid black;
+}
+
+.lists {
+	border: 1px solid red;
+}
+
+.listOCards {
+	border: 1px solid blue;
+}
